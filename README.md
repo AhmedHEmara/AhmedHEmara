@@ -23,26 +23,18 @@
 ---
 
 ## 💻 Programming Languages
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
 
 ---
 
 ## 🛠️ Technologies & Tools I Use
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
 
-> 🔧 **Security Tools:** Kali Linux • Nmap • Wireshark • Metasploit • Aircrack-ng • Burp Suite
-> 🌐 **Networking:** Cisco Packet Tracer • Wireshark • VLANs • Subnetting • AAA
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
+
+🔧 **Security Tools:** Kali Linux • Nmap • Wireshark • Metasploit • Aircrack-ng • Burp Suite
+
+🌐 **Networking:** Cisco Packet Tracer • Wireshark • VLANs • Subnetting • AAA
 
 ---
 
@@ -75,3 +67,29 @@ class AhmedHussein:
         MasterNetworkSecurity()
         BuildSecurityTools()
         # Assume 10 more awesome ambitions here ;)
+` ` `
+
+***
+
+## 🚀 Current Works
+* 🔭 Building **Parkinson Voice Scan App** — AI-powered Flutter app for Parkinson's detection
+* 🛡️ Deep diving into **Penetration Testing** via DEPI (Digital Egypt Pioneers Initiative)
+* 🌱 Sharpening skills in **Network Security** and **Ethical Hacking**
+* ⚔️ Competing in **ECPC** Collegiate Programming Contest
+
+***
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med7uss&layout=compact&theme=dark">
+
+
+
+***
+
+## 🔗 Other Stuff
+- 🌐 [Portfolio](https://profolio-wheat.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/a7med-7ussein)
+- 📧 ahmed.h.emara.tech@gmail.com
+
+> *"The quieter you become, the more you are able to hear."* — Kali Linux motto 🐉
